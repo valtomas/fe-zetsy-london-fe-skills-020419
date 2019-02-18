@@ -42,7 +42,12 @@ h1 {
 }
 
 h2{
-  color: #6f7f7a
+  color: #
+  font-size: 2em;
+}
+
+p {
+  font-size: 1em;
 }
 #about{
   

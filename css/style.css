@@ -55,6 +55,7 @@ p {
 }
 
 #Press img {
+  display: inline-block;
   border: 2px solid #ccc;
   width: 100%;
 }

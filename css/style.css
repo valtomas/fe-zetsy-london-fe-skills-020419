@@ -22,5 +22,7 @@ body {
 
 h1 {
   font-family: "Baskerville";
+  border-bottom: 1px;
+  
 }
 

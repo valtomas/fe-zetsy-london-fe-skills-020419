@@ -57,6 +57,7 @@ p {
 #Press img {
   display: inline;
   border: 3px solid #ccc;
+  width: 24%
 }
 
 footer {

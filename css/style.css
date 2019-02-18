@@ -54,3 +54,7 @@ p {
   
 }
 
+#press img {
+  border: 2px solid #ccc;
+}
+
